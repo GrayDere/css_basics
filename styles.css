@@ -1,10 +1,57 @@
 
 /*style_sheet*/
 
+
+/*
+p.num3
+{
+    font-family:verdana,"Helvetica",sans-serif;
+    font-size:24px;
+    background-color:rgb(246, 124, 255);
+}
+
+p.num5
+{
+    font-family:verdana,"DejaVu"sans,sans-serif;
+    font-size:24px;
+    background-color:rgb(25, 232, 255);
+
+}
+*/
+
+
+
+#num2
+{
+    font-family:verdana,"DejaVu"sans,sans-serif;
+    font-size:36px;
+    color:rgb(34, 34, 255);
+}
+
+
+
+
+#num4
+{
+    font-size:36px;
+    color:rgb(0, 25, 40);
+    background-color:rgb(0, 197, 0);
+    font-weight:bold;
+}
+
+
+
 p
 {
-    font-family:Helvetica;
-    font-size:20px;
+    font-family:verdana,"DejaVu"sans,sans-serif;
     background-color:rgb(221, 150, 150);
     
 }
+
+div
+{
+    font-family:verdana,"DejaVu"sans,sans-serif;
+    font-size:24px;
+    color:rgb(34, 34, 255);
+}
+
