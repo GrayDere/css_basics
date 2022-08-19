@@ -1,0 +1,33 @@
+
+
+/* These are the styles for my buttons */
+
+/*The first element: a black background and white text
+The second element: a yellow background
+Both elements: a font size of 28px and a list of fonts containing Helvetica and Times New Roman, with sans-serif as a fallback
+*/
+
+
+
+p.button1
+{
+color:white;
+background-color: rgb(0, 0, 0);
+
+}
+
+
+p.button2 
+{
+color:rgb(0, 0, 0);
+background-color:yellow;
+
+}
+
+p.button1,p.button2
+{
+
+font-family: Helvetica, 'Times New Roman', sans-serif;
+font-size:28px;
+
+}
