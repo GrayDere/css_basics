@@ -39,6 +39,13 @@ p.num5
     font-weight:bold;
 }
 
+p.num3
+{
+    font-family:verdana,"DejaVu"sans,sans-serif;
+    background-color:rgb(221, 150, 150);
+    font-size: 24px;
+    
+}
 
 
 p
